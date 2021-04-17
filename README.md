@@ -1,6 +1,6 @@
-![alt text](https://raw.githubusercontent.com/mrcakil/Penetration-Revolution/master/test.png)
+![alt text](https://raw.githubusercontent.com/mrcakil/pornhub-grabber/main/Screenshot_20210417-172856807.jpg)
 # pornhub-grabber
-### Requirements : curl
+### Requirements : curl,vpn
 #### Run : 
 ```
 root@mrcakil:#bash pornhub.sh
